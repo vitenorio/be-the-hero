@@ -8,5 +8,5 @@ A aplicação web é voltada para que as ONGs se cadastrem e cadastrem os seus p
 
 Para rodar o projeto, siga:
 
-<p> [Backend](/backend/README.md) </p>
-<p> [Aplicação Web](/web/README.md) </p>
+- [Backend](/backend/README.md) 
+- [Aplicação Web](/web/README.md) 
