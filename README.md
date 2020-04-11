@@ -10,3 +10,4 @@ Para rodar o projeto, siga:
 
 - [Backend](/backend/README.md) 
 - [Aplicação Web](/web/README.md) 
+- [App](/mobile/README.md)
