@@ -9,7 +9,7 @@ export default StyleSheet.create({
     },
 
     header: {
-        flexDirection: "row",
+        flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center'
     },
@@ -62,9 +62,9 @@ export default StyleSheet.create({
     },
 
     detailsButton: {
-        flexDirection: "row",
-        justifyContent: "space-between",
-        alignItems: "center"
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center'
     },
 
     detailsButtonText: {
