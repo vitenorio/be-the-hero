@@ -1,5 +1,5 @@
 ### Getting Started
-Entre no diretório backend ``` cd backend ```
+Entre no diretório web ``` cd web ```
 
 Para instalar as dependências do projeto ``` npm install ```
 
